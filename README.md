@@ -17,7 +17,7 @@ Práctica 2.2: Sentencias iterativas
 - **Fecha de Creación:** [17/10/2024]
 - **Fecha de Entrega:** [22/10/2024]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [O´scar Arriaza Gómez]
+  - **Nombre y Apellidos:** [Óscar Arriaza Gómez]
   - **Correo electrónico:** [oarrgom1905@g.educaand.es]
   - **Iniciales del Alumno/Grupo:** [OAG]
 
