@@ -11,7 +11,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 Práctica 2.2: Sentencias iterativas
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
+- **ID de la Actividad:** [https://github.com/IES-Rafael-Alberti/2425-u2-2-2-sentencias-iterativas-Oscar-code21/blob/master/README.md]
 - **Módulo:** [PROG] (`PROG`, `IS`, `EDES`, etc.)
 - **Unidad de Trabajo:** [UD 2 - Sentencias condicionales y repetitivas]
 - **Fecha de Creación:** [17/10/2024]
