@@ -13,7 +13,7 @@ Práctica 2.2: Sentencias iterativas
 ## Identificación de la Actividad
 - **ID de la Actividad:** [ID de la actividad]
 - **Módulo:** [PROG] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
+- **Unidad de Trabajo:** [UD 2 - Sentencias condicionales y repetitivas]
 - **Fecha de Creación:** [17/10/2024]
 - **Fecha de Entrega:** [22/10/2024]
 - **Alumno(s):** 
