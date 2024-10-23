@@ -21,7 +21,7 @@ def contraseña_correcta(clave):
     '''
     aviso cuando la contraseña es correcta
     '''
-    print(f"La contraseña '{clave}' es correcta.")
+    print(clave)
 
 
 def main ():
