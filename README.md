@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qQgBV5uk)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16695234&assignment_repo_type=AssignmentRepo)
 # Práctica 2.2: Sentencias iterativas
 
 Apoyate en los siguientes recursos para realizar la práctica:
@@ -7,25 +9,25 @@ Apoyate en los siguientes recursos para realizar la práctica:
 ---
 
 # Título de la Actividad
-
+Práctica 2.2: Sentencias iterativas
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** [https://github.com/IES-Rafael-Alberti/2425-u2-2-2-sentencias-iterativas-Oscar-code21]
+- **Módulo:** [PROG] (`PROG`, `IS`, `EDES`, etc.)
+- **Unidad de Trabajo:** [UD 2 - Sentencias condicionales y repetitivas]
+- **Fecha de Creación:** [17/10/2024]
+- **Fecha de Entrega:** [22/10/2024]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** [Óscar Arriaza Gómez]
+  - **Correo electrónico:** [oarrgom1905@g.educaand.es]
+  - **Iniciales del Alumno/Grupo:** [OAG]
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+[Realizar los siguientes programas con lo aprendido en esta unidad]
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - [pythyon]
+   - [Visul estudio code]
 
 2. **Pasos para Compilar el Código:**
    ```bash
@@ -44,7 +46,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 ## Desarrollo de la Actividad
 ### Descripción del Desarrollo
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
+[Estructurado de la forma que pide edu, con su main, desarrollo, inicio y salida]
 
 ### Código Fuente
 [Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
@@ -61,7 +63,7 @@ Apoyate en los siguientes recursos para realizar la práctica:
 - **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
 
 ## Conclusiones
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
+[Bastante complicado mucho de los ejercicios ]
 
 ## Referencias y Fuentes
 [Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
